@@ -1,7 +1,8 @@
 # Tokyo Olympics Data Engineering Project
 
 ## Project Overview
-This project provides an in-depth analysis of Olympic data using various tools and technologies, including Azure Data Factory, Data Lake Gen 2, Synapse Analytics, and Azure Databricks. The pipeline extracts, transforms, and analyzes datasets related to athletes, coaches, teams, and medals to derive meaningful insights.
+- This project provides an in-depth analysis of Olympic data using various tools and technologies, including Azure Data Factory, Data Lake Gen 2, Synapse Analytics, and Azure Databricks.
+- The pipeline extracts, transforms, and analyzes datasets related to athletes, coaches, teams, and medals to derive meaningful insights.
 
 ## Key Components
 ### Azure Data Lake Integration
